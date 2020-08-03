@@ -26,4 +26,3 @@
 * Transfer Learning
   * Flower
   * Ants and Bees
-  * Dog breed
